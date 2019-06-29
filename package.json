@@ -1,0 +1,19 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FunnyDewd/web-components.git",
+  "author": "Victor Aponte <victor@victoraponte.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "@testing-library/dom": "^5.4.0",
+    "cypress": "^3.3.2",
+    "eslint": "^6.0.1",
+    "eslint-config-google": "^0.13.0",
+    "jest": "^24.8.0",
+    "parcel-bundler": "^1.12.3",
+    "prettier": "^1.18.2",
+    "stylelint": "^10.1.0",
+    "stylelint-config-recommended": "^2.2.0"
+  }
+}
