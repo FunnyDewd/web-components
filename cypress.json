@@ -1,1 +1,9 @@
-{}
+{
+  "fixturesFolder": "client/cypress/fixtures",
+  "integrationFolder": "client/cypress/integration",
+  "pluginsFile": "client/cypress/plugins/index.js",
+  "screenshotsFolder": "client/cypress/screenshots",
+  "supportFile": "client/cypress/support/index.js",
+  "videosFolder": "client/cypress/videos",
+  "testFiles": "**/*.e2e.js"
+}

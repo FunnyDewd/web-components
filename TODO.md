@@ -17,7 +17,7 @@ Development tools:
 ☐ Add .editorconfig file
 ☐ Install parcel-bundler
 ☐ Install Jest & dom-testing-library
-☐ Install cypress
+✔ Install cypress @done(19-06-29 21:49)
 
 ### Server code
 
@@ -37,7 +37,7 @@ Front-end app setup:
 ☐ Stub application entry
 ☐ Create smoke tests
 ☐ Jest/DOM testing library
-☐ Cypress smoke test
+✔ Cypress smoke test @done(19-06-29 21:49)
 ☐ Build out static version of app in HTML/CSS/JS
 ☐ Create container components
 ☐ Create visual components
